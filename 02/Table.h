@@ -54,7 +54,7 @@ class Table {
 
 		void get_size() const
 		{
-			std::cout << "This array is " << _rows << " and " << _cols << "\n";
+			std::cout << "This array is " << _rows << " rows and " << _cols << " cols\n";
 		}
 
 	private:
