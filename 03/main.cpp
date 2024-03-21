@@ -1,5 +1,4 @@
 ﻿#include "Functor.h"
-#include <vector>
 
 template<typename V>
 std::ostream& operator<<(std::ostream& out, const std::vector<V>& vect)
